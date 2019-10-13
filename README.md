@@ -10,6 +10,6 @@ To use the project you need to install the all dependencies:
 
 ```
 
-<img src=./capturar.png><img src=./capturar.png>
+<img src=./capturar.png>
 =======
 >>>>>>> 4a5ab19641191ae85b8983fcbc223a987fb64c1d
