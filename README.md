@@ -15,6 +15,7 @@ To use the project you need to install the all dependencies:
 ### Starting the project
 
 after we download the dependencies, we use the following commands in the console:
+
 (*I recommend using two or three windows on the console*)
 
 With this command, we initialize **MongoDB**, which is our database, without it, the project will **not work**.
@@ -22,6 +23,7 @@ With this command, we initialize **MongoDB**, which is our database, without it,
 ```JS
 mongod
 ```
+![mongod](https://user-images.githubusercontent.com/49910898/66759171-1c4ef900-ee76-11e9-8d68-75eb74fd97fd.PNG)
 
 Now we'll start the **server**:
 ```JS
