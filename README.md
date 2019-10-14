@@ -13,9 +13,8 @@ To use the project you need to install the all dependencies:
 
 ## Starting the project
 
-after we download the dependencies, we use the following commands in the console:
-
-(*I recommend using two or three windows on the console*)
+after we download the dependencies, we use the following commands in the console:  
+>I recommend using two or three windows on the console
 
 With this command, we initialize **MongoDB**, which is our database, without it, the project will **not work**.
 
