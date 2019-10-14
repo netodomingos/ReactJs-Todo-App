@@ -29,3 +29,5 @@ Now we'll start the **server**:
 ```JS
 npm run dev
 ```
+
+![dev](https://user-images.githubusercontent.com/49910898/66759340-7485fb00-ee76-11e9-9366-d78a1c59e376.PNG)
