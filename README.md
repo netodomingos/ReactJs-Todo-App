@@ -32,7 +32,7 @@ npm run dev
 
 ![dev](https://user-images.githubusercontent.com/49910898/66759340-7485fb00-ee76-11e9-9366-d78a1c59e376.PNG)
 
-After the Back-End initialization, the time has come to enter the interface.  
+After the Back-End initialization, the time has come to enter the **interface**.  
 To start the application **Front-End**, we will use the following command:   
 >Note, that at this time, we left the folder "backend" and now we enter the folder "frontend"
 >If you do not know how to return to the folder, just use the command **cd ..** in the console.
