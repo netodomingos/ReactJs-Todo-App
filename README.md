@@ -3,7 +3,7 @@ Classic task list application, built in **ReactJS** and **NodeJS**.
 
 ## Initial configuration
 
-To use the project you need to install the **all dependencies**: 
+To use the project you need to install all the **dependencies**: 
 
 ```
  npm i
